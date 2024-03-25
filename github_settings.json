@@ -1,0 +1,141 @@
+{
+    "ecomStores": [
+      {
+        "storeName": "Safeway Marina",
+        "largeOrderThresholdCount": 50,
+        "largeOrderCapUtilizationPerc": 80,
+        "operatingStatus": "ACTIVE",
+        "isDUGStore": true,
+        "storeFeatures": {
+          "isErumStore": true,
+          "isAutoReplenishmentEnabled": true,
+          "isExpressStore": true,
+          "isWineD2CEnabled": true,
+          "isSNAPEligible": true,
+          "isFoodIsMedicineNBEnabled": true
+        },
+        "mappedZipCodes": ["94612", "94607", "94601"],
+        "timezone": "America/Los_Angeles"
+      },
+      {
+        "storeName": "Safeway Filmore",
+        "largeOrderThresholdCount": 75,
+        "largeOrderCapUtilizationPerc": 90,
+        "operatingStatus": "ACTIVE",
+        "isDUGStore": false,
+        "storeFeatures": {
+          "isErumStore": false,
+          "isAutoReplenishmentEnabled": false,
+          "isExpressStore": false,
+          "isWineD2CEnabled": false,
+          "isSNAPEligible": true,
+          "isFoodIsMedicineNBEnabled": false
+        },
+        "mappedZipCodes": ["94501", "94502", "94505"],
+        "timezone": "America/Los_Angeles"
+      },
+      {
+        "storeName": "Safeway Sunset",
+        "largeOrderThresholdCount": 100,
+        "largeOrderCapUtilizationPerc": 75,
+        "operatingStatus": "ACTIVE",
+        "isDUGStore": true,
+        "storeFeatures": {
+          "isErumStore": true,
+          "isAutoReplenishmentEnabled": true,
+          "isExpressStore": true,
+          "isWineD2CEnabled": true,
+          "isSNAPEligible": false,
+          "isFoodIsMedicineNBEnabled": true
+        },
+        "mappedZipCodes": ["94611", "94610", "94609"],
+        "timezone": "America/Los_Angeles"
+      },
+      {
+        "storeName": "Safeway Denver",
+        "largeOrderThresholdCount": 60,
+        "largeOrderCapUtilizationPerc": 70,
+        "operatingStatus": "ACTIVE",
+        "isDUGStore": false,
+        "storeFeatures": {
+          "isErumStore": true,
+          "isAutoReplenishmentEnabled": false,
+          "isExpressStore": true,
+          "isWineD2CEnabled": true,
+          "isSNAPEligible": false,
+          "isFoodIsMedicineNBEnabled": true
+        },
+        "mappedZipCodes": ["80202", "80203", "80204"],
+        "timezone": "America/Denver"
+      },
+      {
+        "storeName": "Safeway Phoenix",
+        "largeOrderThresholdCount": 80,
+        "largeOrderCapUtilizationPerc": 60,
+        "operatingStatus": "ACTIVE",
+        "isDUGStore": true,
+        "storeFeatures": {
+          "isErumStore": false,
+          "isAutoReplenishmentEnabled": true,
+          "isExpressStore": false,
+          "isWineD2CEnabled": true,
+          "isSNAPEligible": true,
+          "isFoodIsMedicineNBEnabled": false
+        },
+        "mappedZipCodes": ["85001", "85002", "85003"],
+        "timezone": "America/Phoenix"
+      },
+      {
+        "storeName": "Safeway Chandler",
+        "largeOrderThresholdCount": 90,
+        "largeOrderCapUtilizationPerc": 50,
+        "operatingStatus": "ACTIVE",
+        "isDUGStore": false,
+        "storeFeatures": {
+          "isErumStore": true,
+          "isAutoReplenishmentEnabled": true,
+          "isExpressStore": true,
+          "isWineD2CEnabled": false,
+          "isSNAPEligible": true,
+          "isFoodIsMedicineNBEnabled": true
+        },
+        "mappedZipCodes": ["85004", "85005", "85006"],
+        "timezone": "America/Phoenix"
+      },
+      {
+        "storeName": "Safeway Grand Canyon",
+        "largeOrderThresholdCount": 70,
+        "largeOrderCapUtilizationPerc": 40,
+        "operatingStatus": "ACTIVE",
+        "isDUGStore": true,
+        "storeFeatures": {
+          "isErumStore": true,
+          "isAutoReplenishmentEnabled": true,
+          "isExpressStore": true,
+          "isWineD2CEnabled": true,
+          "isSNAPEligible": true,
+          "isFoodIsMedicineNBEnabled": true
+        },
+        "mappedZipCodes": ["85007", "85008", "85009"],
+        "timezone": "America/Phoenix"
+      },
+      {
+        "storeName": "Safeway Valley",
+        "largeOrderThresholdCount": 65,
+        "largeOrderCapUtilizationPerc": 30,
+        "operatingStatus": "ACTIVE",
+        "isDUGStore": false,
+        "storeFeatures": {
+          "isErumStore": true,
+          "isAutoReplenishmentEnabled": true,
+          "isExpressStore": true,
+          "isWineD2CEnabled": true,
+          "isSNAPEligible": true,
+          "isFoodIsMedicineNBEnabled": true
+        },
+        "mappedZipCodes": ["85010", "85011", "85012"],
+        "timezone": "America/Phoenix"
+      }
+    ]
+  }
+  
